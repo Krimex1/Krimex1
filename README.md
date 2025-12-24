@@ -15,66 +15,30 @@
 ```python
 class VibeCoder:
     def __init__(self):
-        self.username = "Krimex1"
+        self.name = "Krimex"
         self.role = "Python Programmer 🐍"
         self.status = "VibeCoder Hacker 💻"
-        self.location = "Novosibirsk, Russia 🇷🇺"
-        self.age = 19
-        self.passion = ["AI/ML", "Web Development", "Automation", "Open Source"]
-        self.website = "http://d1.litehosting.su:25603/"
-        self.currently_learning = ["Model Fine-tuning", "TTS Systems", "Advanced Prompt Engineering"]
-        
-    def get_skills(self):
-        return {
-            "languages": {
-                "expert": ["Python"],
-                "proficient": ["JavaScript", "HTML/CSS"],
-                "learning": ["Go", "Rust"]
-            },
-            "ai_ml": {
-                "llms": ["GPT-4", "Claude", "Gemini", "DeepSeek"],
-                "frameworks": ["TensorFlow", "PyTorch", "Hugging Face"],
-                "tools": ["OpenRouter", "LangChain", "Ollama"]
-            },
-            "web_dev": {
-                "backend": ["FastAPI", "Flask", "Django"],
-                "frontend": ["React", "Vue.js", "Vanilla JS"],
-                "databases": ["PostgreSQL", "MongoDB", "Redis"]
-            },
-            "devops": ["Docker", "Git", "Linux", "Pterodactyl", "CI/CD"],
-            "other": ["Telegram Bot API", "RESTful APIs", "WebSockets"]
-        }
+        self.location = "Novosibirsk, Russia"
+        self.focus = "AI/ML & Web Development"
     
-    def current_focus(self):
-        return {
-            "project": "Proxify - AI Search Aggregator",
-            "goal": "Building production-ready AI apps for Russian market",
-            "learning": "Advanced LLM optimization techniques",
-            "side_quest": "Contributing to open-source AI projects"
-        }
+    def current_projects(self):
+        return ["AI Search Aggregator", "Telegram Bots", "Web Apps"]
     
-    def get_stats(self):
+    def tech_stack(self):
         return {
-            "years_coding": 3,
-            "projects_completed": 15,
-            "coffee_consumed": "∞",
-            "bugs_fixed": "Too many to count",
-            "lines_of_code": "Countless"
+            "languages": ["Python", "JavaScript", "HTML/CSS"],
+            "ai_tools": ["GPT", "Claude", "Gemini", "OpenRouter"],
+            "frameworks": ["FastAPI", "TensorFlow", "PyTorch"]
         }
 
-# Initialize
 hacker = VibeCoder()
-print(f"🚀 Current Focus: {hacker.current_focus()['project']}")
-print(f"🎯 Goal: {hacker.current_focus()['goal']}")
-print(f"☕ Coffee consumed: {hacker.get_stats()['coffee_consumed']}")
+print(f"🚀 {hacker.focus}")
 ```
 
-**👾 Quick Facts:**
-- 🔭 Working on **AI-powered search aggregator** optimized for Russian language
-- 🌱 Learning **model fine-tuning** and **voice synthesis systems**
-- 💬 Ask me about **Python, LLMs, Telegram Bots, or AI integration**
-- ⚡ Fun fact: I optimize prompts like others optimize code
-- 🎮 Side interests: Gaming, tech blogging, building cool stuff
+🔥 **Currently working on:** AI-powered search aggregator optimized for Russian language  
+🌱 **Learning:** Model fine-tuning, TTS systems  
+💬 **Ask me about:** Python, LLMs, Telegram Bots, AI integration  
+⚡ **Fun fact:** I optimize prompts like others optimize code
 
 ---
 
@@ -116,7 +80,6 @@ print(f"☕ Coffee consumed: {hacker.get_stats()['coffee_consumed']}")
 - Working with OpenRouter & Hugging Face
 - Prompt engineering & optimization
 - Building AI chatbots
-- Natural language processing
 - Multi-model orchestration
 
 </td>
@@ -127,7 +90,6 @@ print(f"☕ Coffee consumed: {hacker.get_stats()['coffee_consumed']}")
 - RESTful APIs with FastAPI
 - Telegram bots with AI features
 - Web interfaces for LLMs
-- Database design & deployment
 - Real-time systems
 
 </td>
@@ -136,57 +98,27 @@ print(f"☕ Coffee consumed: {hacker.get_stats()['coffee_consumed']}")
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Featured Projects
 
-<div align="center">
+### 🔍 Proxify/ProxyViser
+AI search aggregator in Perplexity style, optimized for Russian language  
+**Tech:** Python, FastAPI, LLMs, Web  
+**Status:** 🟢 In Development
 
-<a href="https://github.com/Krimex1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krimex1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krimex1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff"/>
-</a>
+### 🤖 Telegram AI Bots
+Smart bots with multi-LLM integration and context memory  
+**Tech:** Python, aiogram, OpenRouter  
+**Status:** 🟢 Production
 
-</div>
+### 🌐 AI Web Chat
+Web applications for AI interactions with multiple backends  
+**Tech:** Python, JavaScript, FastAPI  
+**Status:** 🟡 Testing
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Krimex1&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🔥 Current Projects
-
-```python
-projects = {
-    "Proxify/ProxyViser": {
-        "description": "AI search aggregator in Perplexity style",
-        "tech": ["Python", "FastAPI", "LLMs", "Web"],
-        "focus": "Optimized for Russian language",
-        "status": "🟢 In Development"
-    },
-    "Telegram AI Bots": {
-        "description": "Smart bots with multi-LLM integration",
-        "tech": ["Python", "aiogram", "OpenRouter"],
-        "features": ["Multi-model", "Context memory", "API integration"],
-        "status": "🟢 Production"
-    },
-    "AI Web Chat": {
-        "description": "Web applications for AI interactions",
-        "tech": ["Python", "JavaScript", "FastAPI"],
-        "features": ["Multiple backends", "Real-time chat"],
-        "status": "🟡 Testing"
-    },
-    "OSINT Tools": {
-        "description": "Information gathering utilities",
-        "tech": ["Python", "APIs", "Automation"],
-        "status": "🔵 Planning"
-    }
-}
-
-for project, details in projects.items():
-    print(f"⚡ {project}: {details['status']}")
-```
+### 🕵️ OSINT Tools
+Information gathering and automation utilities  
+**Tech:** Python, APIs, Automation  
+**Status:** 🔵 Planning
 
 ---
 
@@ -195,30 +127,28 @@ for project, details in projects.items():
 - [x] Build AI search aggregator
 - [x] Launch production Telegram bots
 - [ ] Optimize Russian LLM performance
-- [ ] Grow open-source projects on GitHub
+- [ ] Grow open-source projects
 - [ ] Learn model fine-tuning
 - [ ] Create TTS/voice synthesis system
-- [ ] Contribute to major open-source AI projects
 
 ---
 
-## 💫 Skills Progress
+## 💫 Skills
 
 <div align="center">
 
-**Python** ████████████████████░ 90%
-
-**AI/ML** ████████████████░░░░░ 80%
-
-**Web Development** ██████████████░░░░░░ 70%
-
-**DevOps** ████████████░░░░░░░░ 60%
+```
+Python           █████████░ 90%
+AI/ML            ████████░░ 80%
+Web Development  ███████░░░ 70%
+DevOps           ██████░░░░ 60%
+```
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
@@ -237,22 +167,17 @@ for project, details in projects.items():
 **`Code → Test → Deploy → Iterate → Dominate`**
 
 ```python
-while True:
+while alive:
     code()
-    test()
     if works():
-        deploy()
-        celebrate()
+        ship_it()
     else:
-        debug()
-        learn()
+        fix_it()
 ```
 
 *"The best code is the code that ships."*
 
 ---
-
-![Snake animation](https://raw.githubusercontent.com/Krimex1/Krimex1/output/github-contribution-grid-snake-dark.svg)
 
 <sub>Made with 💜 by VibeCoder | Python Programmer & Hacker</sub>
 
