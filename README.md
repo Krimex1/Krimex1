@@ -4,7 +4,7 @@
 
 **Python Programmer | VibeCoder Hacker**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krimex1&color=8B5CF6&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Full-stack+Python+developer;VibeCoder+Hacker+%F0%9F%92%BB;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,11 +57,12 @@ print(hacker.current_focus())
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -79,6 +80,7 @@ print(hacker.current_focus())
 - Prompt engineering & optimization
 - Building AI chatbots
 - Natural language processing
+- Multi-model orchestration
 
 </td>
 <td width="50%" valign="top">
@@ -89,6 +91,7 @@ print(hacker.current_focus())
 - Telegram bots with AI features
 - Web interfaces for LLMs
 - Database design & deployment
+- Real-time systems
 
 </td>
 </tr>
@@ -128,13 +131,13 @@ projects = {
     "Telegram AI Bots": {
         "description": "Smart bots with multi-LLM integration",
         "tech": ["Python", "aiogram", "OpenRouter"],
-        "features": ["Multi-model", "Context memory"],
+        "features": ["Multi-model", "Context memory", "API integration"],
         "status": "🟢 Production"
     },
     "AI Web Chat": {
         "description": "Web applications for AI interactions",
         "tech": ["Python", "JavaScript", "FastAPI"],
-        "features": ["Multiple backends", "Real-time"],
+        "features": ["Multiple backends", "Real-time chat"],
         "status": "🟡 Testing"
     },
     "OSINT Tools": {
@@ -158,6 +161,23 @@ for project, details in projects.items():
 - [ ] Grow open-source projects on GitHub
 - [ ] Learn model fine-tuning
 - [ ] Create TTS/voice synthesis system
+- [ ] Contribute to major open-source AI projects
+
+---
+
+## 💫 Skills Progress
+
+<div align="center">
+
+**Python** █████████░ 90%
+
+**AI/ML** ████████░░ 80%
+
+**Web Development** ███████░░░ 70%
+
+**DevOps** ██████░░░░ 60%
+
+</div>
 
 ---
 
@@ -179,12 +199,22 @@ for project, details in projects.items():
 
 **`Code → Test → Deploy → Iterate → Dominate`**
 
+```python
+while True:
+    code()
+    test()
+    if works():
+        deploy()
+        celebrate()
+    else:
+        debug()
+        learn()
+```
+
 *"The best code is the code that ships."*
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<sub>Made with 💜 by VibeCoder | Last updated: 2025</sub>
+<sub>Made with 💜 by VibeCoder | Python Programmer & Hacker</sub>
 
 </div>
