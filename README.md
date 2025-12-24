@@ -133,21 +133,6 @@ Information gathering and automation utilities
 
 ---
 
-## 💫 Skills
-
-<div align="center">
-
-```
-Python           █████████░ 90%
-AI/ML            ████████░░ 80%
-Web Development  ███████░░░ 70%
-DevOps           ██████░░░░ 60%
-```
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
@@ -166,19 +151,10 @@ DevOps           ██████░░░░ 60%
 
 **`Code → Test → Deploy → Iterate → Dominate`**
 
-```python
-while alive:
-    code()
-    if works():
-        ship_it()
-    else:
-        fix_it()
-```
-
-*"The best code is the code that ships."*
-
 ---
 
-<sub>Made with 💜 by VibeCoder | Python Programmer & Hacker</sub>
+![Snake animation](https://raw.githubusercontent.com/Krimex1/Krimex1/output/github-contribution-grid-snake-dark.svg)
+
+<sub>Made with 💜 by VibeCoder</sub>
 
 </div>
