@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Krimex1!
+# 👋 Hey, I'm Krimex!
 
 **Python Programmer | VibeCoder Hacker**
 
