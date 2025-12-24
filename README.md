@@ -155,6 +155,6 @@ Information gathering and automation utilities
 
 ![Snake animation](https://raw.githubusercontent.com/Krimex1/Krimex1/output/github-contribution-grid-snake-dark.svg)
 
-<sub>Made with 💜 by VibeCoder</sub>
+<sub>Made with 💜 by krimex</sub>
 
 </div>
