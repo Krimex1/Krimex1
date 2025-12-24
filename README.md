@@ -4,7 +4,7 @@
 
 **Python Programmer | VibeCoder Hacker**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Full-stack+Python+developer;VibeCoder+Hacker+%F0%9F%92%BB;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Full-stack+Python+developer;VibeCoder+Hacker+💻;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,25 +19,62 @@ class VibeCoder:
         self.role = "Python Programmer 🐍"
         self.status = "VibeCoder Hacker 💻"
         self.location = "Novosibirsk, Russia 🇷🇺"
-        self.passion = ["AI/ML", "Web Dev", "Automation"]
+        self.age = 19
+        self.passion = ["AI/ML", "Web Development", "Automation", "Open Source"]
         self.website = "http://d1.litehosting.su:25603/"
+        self.currently_learning = ["Model Fine-tuning", "TTS Systems", "Advanced Prompt Engineering"]
         
     def get_skills(self):
         return {
-            "languages": ["Python", "JavaScript", "HTML/CSS"],
-            "ai_ml": ["LLMs", "TensorFlow", "PyTorch", "Hugging Face"],
-            "frameworks": ["FastAPI", "Telegram Bot API", "OpenRouter"],
-            "tools": ["Git", "GitHub", "Docker", "Pterodactyl"]
+            "languages": {
+                "expert": ["Python"],
+                "proficient": ["JavaScript", "HTML/CSS"],
+                "learning": ["Go", "Rust"]
+            },
+            "ai_ml": {
+                "llms": ["GPT-4", "Claude", "Gemini", "DeepSeek"],
+                "frameworks": ["TensorFlow", "PyTorch", "Hugging Face"],
+                "tools": ["OpenRouter", "LangChain", "Ollama"]
+            },
+            "web_dev": {
+                "backend": ["FastAPI", "Flask", "Django"],
+                "frontend": ["React", "Vue.js", "Vanilla JS"],
+                "databases": ["PostgreSQL", "MongoDB", "Redis"]
+            },
+            "devops": ["Docker", "Git", "Linux", "Pterodactyl", "CI/CD"],
+            "other": ["Telegram Bot API", "RESTful APIs", "WebSockets"]
         }
     
     def current_focus(self):
-        return "🚀 Building AI-powered applications for the Russian market"
+        return {
+            "project": "Proxify - AI Search Aggregator",
+            "goal": "Building production-ready AI apps for Russian market",
+            "learning": "Advanced LLM optimization techniques",
+            "side_quest": "Contributing to open-source AI projects"
+        }
+    
+    def get_stats(self):
+        return {
+            "years_coding": 3,
+            "projects_completed": 15,
+            "coffee_consumed": "∞",
+            "bugs_fixed": "Too many to count",
+            "lines_of_code": "Countless"
+        }
 
 # Initialize
 hacker = VibeCoder()
-print(hacker.current_focus())
-# Output: 🚀 Building AI-powered applications for the Russian market
+print(f"🚀 Current Focus: {hacker.current_focus()['project']}")
+print(f"🎯 Goal: {hacker.current_focus()['goal']}")
+print(f"☕ Coffee consumed: {hacker.get_stats()['coffee_consumed']}")
 ```
+
+**👾 Quick Facts:**
+- 🔭 Working on **AI-powered search aggregator** optimized for Russian language
+- 🌱 Learning **model fine-tuning** and **voice synthesis systems**
+- 💬 Ask me about **Python, LLMs, Telegram Bots, or AI integration**
+- ⚡ Fun fact: I optimize prompts like others optimize code
+- 🎮 Side interests: Gaming, tech blogging, building cool stuff
 
 ---
 
@@ -169,13 +206,13 @@ for project, details in projects.items():
 
 <div align="center">
 
-**Python** █████████░ 90%
+**Python** ████████████████████░ 90%
 
-**AI/ML** ████████░░ 80%
+**AI/ML** ████████████████░░░░░ 80%
 
-**Web Development** ███████░░░ 70%
+**Web Development** ██████████████░░░░░░ 70%
 
-**DevOps** ██████░░░░ 60%
+**DevOps** ████████████░░░░░░░░ 60%
 
 </div>
 
@@ -214,6 +251,8 @@ while True:
 *"The best code is the code that ships."*
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/Krimex1/Krimex1/output/github-contribution-grid-snake-dark.svg)
 
 <sub>Made with 💜 by VibeCoder | Python Programmer & Hacker</sub>
 
