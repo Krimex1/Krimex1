@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я Krimex1!
+# 👋 Hey, I'm Krimex1!
 
 **Python Programmer | VibeCoder Hacker**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
 ```python
 class VibeCoder:
@@ -31,21 +31,21 @@ class VibeCoder:
         }
     
     def current_focus(self):
-        return "🚀 Building AI-powered applications for Russian market"
+        return "🚀 Building AI-powered applications for the Russian market"
 
 # Initialize
 hacker = VibeCoder()
 print(hacker.current_focus())
-# Output: 🚀 Building AI-powered applications for Russian market
+# Output: 🚀 Building AI-powered applications for the Russian market
 ```
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Языки программирования
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,7 +57,7 @@ print(hacker.current_focus())
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Инструменты
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,28 +67,28 @@ print(hacker.current_focus())
 
 ---
 
-## 💡 Специализация
+## 💡 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Искусственный интеллект
-- Интеграция LLM моделей (GPT, Claude, Gemini)
-- Работа с OpenRouter и Hugging Face
-- Prompt engineering и оптимизация
-- Создание AI чат-ботов
-- Обработка естественного языка
+### 🤖 Artificial Intelligence
+- Integrating LLM models (GPT, Claude, Gemini)
+- Working with OpenRouter & Hugging Face
+- Prompt engineering & optimization
+- Building AI chatbots
+- Natural language processing
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web разработка
-- Full-stack приложения с AI
-- RESTful API на FastAPI
-- Telegram боты с AI функциями
-- Web-интерфейсы для LLM
-- База данных и deployment
+### 🌐 Web Development
+- Full-stack applications with AI
+- RESTful APIs with FastAPI
+- Telegram bots with AI features
+- Web interfaces for LLMs
+- Database design & deployment
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ print(hacker.current_focus())
 
 ---
 
-## 📊 GitHub активность
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -115,30 +115,30 @@ print(hacker.current_focus())
 
 ---
 
-## 🔥 Текущие проекты
+## 🔥 Current Projects
 
 ```python
 projects = {
     "Proxify/ProxyViser": {
-        "description": "AI поисковый агрегатор в стиле Perplexity",
+        "description": "AI search aggregator in Perplexity style",
         "tech": ["Python", "FastAPI", "LLMs", "Web"],
-        "focus": "Оптимизация для русского языка",
-        "status": "🟢 В разработке"
+        "focus": "Optimized for Russian language",
+        "status": "🟢 In Development"
     },
     "Telegram AI Bots": {
-        "description": "Умные боты с интеграцией различных LLM",
+        "description": "Smart bots with multi-LLM integration",
         "tech": ["Python", "aiogram", "OpenRouter"],
         "features": ["Multi-model", "Context memory"],
         "status": "🟢 Production"
     },
     "AI Web Chat": {
-        "description": "Web-приложения для работы с AI",
+        "description": "Web applications for AI interactions",
         "tech": ["Python", "JavaScript", "FastAPI"],
         "features": ["Multiple backends", "Real-time"],
         "status": "🟡 Testing"
     },
     "OSINT Tools": {
-        "description": "Инструменты для сбора информации",
+        "description": "Information gathering utilities",
         "tech": ["Python", "APIs", "Automation"],
         "status": "🔵 Planning"
     }
@@ -150,18 +150,18 @@ for project, details in projects.items():
 
 ---
 
-## 🎯 Цели на 2025
+## 🎯 2025 Goals
 
-- [x] Создать AI поисковый агрегатор
-- [x] Запустить production Telegram ботов
-- [ ] Оптимизировать работу с российскими LLM
-- [ ] Развить открытые проекты на GitHub
-- [ ] Изучить fine-tuning моделей
-- [ ] Создать TTS/voice синтез систему
+- [x] Build AI search aggregator
+- [x] Launch production Telegram bots
+- [ ] Optimize Russian LLM performance
+- [ ] Grow open-source projects on GitHub
+- [ ] Learn model fine-tuning
+- [ ] Create TTS/voice synthesis system
 
 ---
 
-## 📫 Связь со мной
+## 📫 Connect With Me
 
 <div align="center">
 
