@@ -107,20 +107,6 @@ Perplexity-подобный поисковик с оптимизацией по�
 
 ---
 
-## 📊 GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krimex1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krimex1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krimex1&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
-
-</div>
-
----
-
 ## 💡 Что меня интересует
 
 - 🧠 **LLM оптимизация** - работа с различными моделями (GPT-4, Claude, Gemini, DeepSeek)
@@ -138,7 +124,7 @@ Perplexity-подобный поисковик с оптимизацией по�
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krimex1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krimex1)
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://d1.litehosting.su:25603/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://d1.litehosting.su:25603/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.bryxin@gmail.com)
 
 ### 💬 Открыт к сотрудничеству и интересным проектам!
