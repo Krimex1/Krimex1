@@ -4,7 +4,7 @@
 
 **Python Programmer | VibeCoder Hacker**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Full-stack+Python+developer;VibeCoder+Hacker+💻;Open+Source+Enthusiast)](https://git.io/typing-svg)
+<h2 style="color: #8B5CF6;">Full-stack Python developer</h2>
 
 </div>
 
@@ -63,5 +63,28 @@ print(f"🚀 {hacker.focus}")
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krimex1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krimex1&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krimex1)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://d1.litehosting.su:25603/)
 
 </div>
