@@ -14,7 +14,7 @@
 ### 🚀 Full-stack разработчик | 🤖 AI инженер | 💻 Билдер проектов
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krimex)
-[![Portfolio](https://img.shields.io/badge/AIStudioPro-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://d1.litehosting.su:25603/)
+[![Portfolio](https://img.shields.io/badge/MySite-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://d1.litehosting.su:25603/)
 
 ---
 
